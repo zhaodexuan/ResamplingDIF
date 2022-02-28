@@ -1,0 +1,11 @@
+Package: ResamplingDIF
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Zhao Dexuan
+Maintainer: The package maintainer <zhaodexuan@aliyun.com>
+Description: DIF-free resampling method
+License: GPL-2
+Encoding: UTF-8
+LazyData: FALSE
+Imports: ltm,difR,mirt,catR
